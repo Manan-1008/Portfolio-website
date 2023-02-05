@@ -216,8 +216,14 @@ a:hover {
         font-size: 1.5rem;
     }
 
+    .top-cloud {
+        width: 30%;
+        top: 20px;
+    }
+    
     .bottom-cloud {
         bottom: 170px;
+        width: 30%;
     }
 
     .mountain{
