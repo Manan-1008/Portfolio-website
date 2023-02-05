@@ -201,18 +201,39 @@ a:hover {
 
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 700px) {
+    
+    h1 {
+        font-size: 4rem;
+    }
+
+    .profile-pic {
+        width: 240px;
+    }
+
+    .role {
+        font-size: 1.5rem;
+    }
+
+    .bottom-cloud {
+        bottom: 250px;
+    }
+
     .mountain{
         width: 100%;
     }
 
     #html-img, #cpp-img{
         float:none;
-        width: 100%;
-        margin: auto;
+        display: block;
+        margin: 0 auto 20px;
     }
 
     #cpp-img {
         border-radius: 60%;
+    }
+
+    .skill-row {
+        text-align: center;
     }
 }
