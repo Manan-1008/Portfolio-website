@@ -193,6 +193,7 @@ a:hover {
  
     .bottom-cloud {
         left: 1%;
+        bottom: 200px;
     }
 
     .navbar {
@@ -216,7 +217,7 @@ a:hover {
     }
 
     .bottom-cloud {
-        bottom: 200px;
+        bottom: 170px;
     }
 
     .mountain{
