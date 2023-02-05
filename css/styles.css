@@ -10,6 +10,11 @@ body {
     position: relative;
     padding-top: 60px;
 }
+ /* changed section */
+#top-section {
+    background-color: #eaf6f6;
+    padding-top: 120px;
+}
 
 h1 {
     margin: 50px auto 0 auto;
