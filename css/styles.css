@@ -198,4 +198,21 @@ a:hover {
     .navbar {
         padding: 1rem 1%;
     }
+
+}
+
+@media only screen and (max-width: 480px) {
+    .mountain{
+        width: 100%;
+    }
+
+    #html-img, #cpp-img{
+        float:none;
+        width: 100%;
+        margin: auto;
+    }
+
+    #cpp-img {
+        border-radius: 60%;
+    }
 }
